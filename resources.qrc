@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TEMPLE1.osm</file>
+    </qresource>
+</RCC>
