@@ -1,6 +1,7 @@
 #include "dijkstra.h"
 #include <queue>
 #include <limits>
+#include <algorithm> 
 
 DijkstraResult Dijkstra::run(const Graph& graph, int source, int target) {
     DijkstraResult result;
