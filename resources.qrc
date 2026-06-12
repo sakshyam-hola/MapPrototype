@@ -1,5 +1,5 @@
 <RCC>
     <qresource prefix="/">
-        <file>TEMPLE1.osm</file>
+        <file>temple.osm</file>
     </qresource>
 </RCC>
